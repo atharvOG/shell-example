@@ -1,6 +1,4 @@
 x=a+b
-<<<<<<< HEAD
-
 
 my name is atharv 
 
