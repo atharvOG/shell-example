@@ -1,4 +1,5 @@
 x=a+b
+<<<<<<< HEAD
 
 
 my name is atharv 
@@ -6,11 +7,9 @@ my name is atharv
 
 y = a+b+c
 
-d = go go
+d = 14
 
 #Adding div functionn
 
 
 Div = a/b
-
-
