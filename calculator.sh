@@ -7,3 +7,10 @@ my name is atharv
 y = a+b+c
 
 d = go go
+
+#Adding div functionn
+
+
+Div = a/b
+
+
