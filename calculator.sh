@@ -11,3 +11,6 @@ d = 14
 
 
 Div = a/b
+
+
+# Adding Multiplication function
